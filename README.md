@@ -1,6 +1,5 @@
 # Dice-Game
-1. A pretty simple game built using HTML,CSS and Javascript.
-2. Used random number generator to generate numbers between 1 to 6 on the two dices representing two participants and the one with the higher number wins and the other loses.
-3. Each time the page is refreshed, a random number is generated on the two dices.
-If both of them have the same random number generated then the game results in a tie.
-<h4>Enjoy the game at: https://fantastic-muffin-018955.netlify.app/</h4>
+1. I've crafted a simple game employing HTML, CSS, and Javascript.
+2. The game incorporates a random number generator to yield numbers between 1 and 6 on two dice, representing two participants. The participant with the higher number prevails as the winner, while the other experiences defeat.
+3. Upon each page refresh, a fresh set of random numbers is generated on the two dice. Should both dice display identical numbers, the game concludes in a tie.
+<h4>Experience the game at https://fantastic-muffin-018955.netlify.app/</h4>
